@@ -1,4 +1,4 @@
-# This repo is for testing the GitHub Copilot API
+# Copilot Administration & Security
 
 [postman](https://web.postman.co/)
 
